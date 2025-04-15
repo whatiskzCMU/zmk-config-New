@@ -1,0 +1,7 @@
+if SHIELD_UNIBOARD
+
+config ZMK_KEYBOARD_NAME
+    default "uniboard"
+
+endif
+
